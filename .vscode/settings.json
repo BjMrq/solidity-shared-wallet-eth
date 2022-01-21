@@ -1,0 +1,14 @@
+{
+  "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+  "solidity.nodemodulespackage": "solc",
+  "solidity.validationDelay": 1500,
+  "solidity.linter": "solium",
+  "editor.formatOnSave": true,
+  "solidity.defaultCompiler": "localNodeModule",
+  "solidity.compileUsingRemoteVersion": "v0.4.17+commit.bdeb9e52",
+  "solidity.persistErrors": true,
+  "solidity.lintOnChange": true,
+  "cSpell.words": [
+    "Restrictable"
+  ]
+}
